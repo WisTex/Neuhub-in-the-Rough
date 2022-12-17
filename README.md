@@ -18,7 +18,7 @@ And there are also situations where you might want to integrate code from anothe
 
 These themes are designed to be installed with Hubzilla, but they may (or may not) work on similar platforms, such as Streams.
 
-If they require Neuheb to be installed, it will be mentioned in the theme's readme file. For example, some of these themes will use widgets that come with Neuhub.
+If they require Neuhub to be installed, it will be mentioned in the theme's readme file. For example, some of these themes will use widgets that come with Neuhub.
 
 ## Websites & Repositories
 
