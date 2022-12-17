@@ -12,7 +12,11 @@ For example, Neuhub-in-the-Rough themes might have static pages that a developer
 
 Mostly due to speed. Sometimes it is just faster to hard code certain elements into the website, especially if you are creating only one website with that particular design. And you may not want certain content editable through the Hubzilla interface.
 
-And there are also situations where you might want to integrate other code into your Hubzilla website, which might need a custom solution.
+And there are also situations where you might want to integrate code from another project or application into your Hubzilla website, which might need a custom solution.
+
+## Compatibility
+
+These themes are designed to be installed with Hubzilla, but they may (or may not) work on similar platforms, such as Streams.
 
 ## Websites & Repositories
 
