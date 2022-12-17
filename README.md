@@ -10,6 +10,13 @@ For example, Neuhub-in-the-Rough themes might have static pages that a developer
 
 ## Why not build an interface so everything is database driven?
 
-Mostly due to speed. Sometimes it is just faster to hard code certain elements into the website, especially if you are creating only one website with that design. That's not necessarily the "proper" way to do it, but sometimes you just have to get something out the door.
+Mostly due to speed. Sometimes it is just faster to hard code certain elements into the website, especially if you are creating only one website with that design. And you may not want certain content editable through the Hubzilla interface.
 
 And there are also situations where you might want to integrate other code into your Hubzilla website, which might need a custom solution.
+
+## Websites & Repositories
+
+* Neuhub - https://neuhub.org
+* Neuhub - https://github.com/WisTex/Neuhub
+* Neuhub-in-the-Rough - https://github.com/WisTex/Neuhub-in-the-Rough
+* MIT Licence - https://license.neuhub.org
